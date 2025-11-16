@@ -45,7 +45,7 @@ def switcher(filename):
         return audio
 
 def main():
-    todo = input("Please input file to convert:")
+    todo = input("Please input file to convert (file path):")
     save = todo[:-3]
 
     # cannot convert mp4 to m4a, wav, flv, ogg, raw
