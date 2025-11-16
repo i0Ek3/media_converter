@@ -2,7 +2,7 @@
 
 Convert different audio/video types easily.
 
-![](https://github.com/i0Ek3/media_converter/blob/main/image/converter.jpg)
+![](https://github.com/i0Ek3/media_converter/blob/master/image/converter.jpg)
 
 
 
